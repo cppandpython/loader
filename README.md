@@ -8,7 +8,7 @@
 
 <br>
 
-loader - 
+loader - Telegram bot module loader
 
 <br>
 
